@@ -30,7 +30,11 @@ Most of my bugs are timezones.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=watchthelight&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Recently playing
+### Now playing
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=akx6qqefj2x7ghbowoolwf0yf&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=akx6qqefj2x7ghbowoolwf0yf&redirect=true)
+
+### Recently played
 
 [![Last.fm Recent](https://lastfm-recently-played.vercel.app/api?user=watchthelight&count=5)](https://www.last.fm/user/watchthelight)
 
