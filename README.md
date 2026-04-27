@@ -1,6 +1,6 @@
 U.S. Marine. Boredom-induced developer.
 
-Co-founder / CTO at [Secretless](https://secretless.net): argues what products ARE, not whether reviews are fake.
+Co-founder / CTO at [Secretless](https://secretless.net)
 
 Most of my bugs are timezones.
 
